@@ -43,13 +43,11 @@ python predict.py
 <h2 id="contribuicoes">Contribuições</h2>
 <p>Contribuições são bem-vindas! Por favor, faça um fork do repositório e crie um pull request com suas alterações.</p>
 
-<h2 id="licenca">Licença</h2>
-<p>Este projeto está licenciado sob a Licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
 
 </body>
 </html>
 
 <p>Abaixo estão algumas imagens relevantes do projeto:</p>
-<p><img src="foto1.png" alt="Foto 1" style="max-width:100%;"></p>
-<p><img src="foto2.png" alt="Foto 2" style="max-width:100%;"></p>
+<p><img src="https://github.com/SaraEmilay/Predict_Time_Series_Test/blob/main/foto%201.png?raw=true" alt="Foto 1" style="max-width:100%;"></p>
+<p><img src="https://github.com/SaraEmilay/Predict_Time_Series_Test/blob/main/foto%202.png?raw=true" alt="Foto 2" style="max-width:100%;"></p>
 
