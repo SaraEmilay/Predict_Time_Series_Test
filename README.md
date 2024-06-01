@@ -48,3 +48,8 @@ python predict.py
 
 </body>
 </html>
+
+<p>Abaixo estão algumas imagens relevantes do projeto:</p>
+<p><img src="foto1.png" alt="Foto 1" style="max-width:100%;"></p>
+<p><img src="foto2.png" alt="Foto 2" style="max-width:100%;"></p>
+
